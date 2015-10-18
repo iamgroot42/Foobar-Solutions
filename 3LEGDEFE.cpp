@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 	int t,i,n,sum,temp;
     cin>>t;
-	while (t>0)
+	while (t--)
 	{
 		sum=0;
 		cin>>n;
@@ -14,7 +14,6 @@ int main() {
 		sum+=temp/3;
 		}
     cout<<sum<<"\n";
-	t-=1;
 	}
 	return 0;
 }
