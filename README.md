@@ -5,4 +5,3 @@ These solutions are only for reference and shouldn't be used as it is for solvin
 Instead, try to understand and solve the question and if you get stuck at the implementation part at some point, you may refer to
 these codes. However,don't forgot to add a link to solution as 'reference' (as a comment).
 
-#Potato
